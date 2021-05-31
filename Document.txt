@@ -1,0 +1,17 @@
+Name: Tummala Ravi Kumar
+Date of Birth: 26th June 1993
+Zodiac: Leo(simha)
+star: Makha, Gothram: Padipala
+Caste: Kapu
+Height: 5.11
+Educational Qualification: B.tech, Computer science & Engineering
+Salary: 10.5 LPA
+Company: HCL 
+Occupation: Software Engineer, 5 year's experience
+Family details:
+Name: TSKD Venkata Rao (Father)
+Occupation: Bussiness
+Name: T. Ganga Veni (Mother)
+Occupation: House wife
+Name: T. Raj Kumar (Brother)
+Occupation: Software Engineer
