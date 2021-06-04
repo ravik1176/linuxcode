@@ -16,4 +16,10 @@ Occupation: House wife
 Name: T. Raj Kumar (Brother)
 Occupation: Software Engineer
 
+<<<<<<< HEAD
 cousin deepthi
+=======
+cousin ravi
+
+helo world
+>>>>>>> 47784918c34580f26905539cce34f659e6353789
