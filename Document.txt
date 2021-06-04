@@ -22,4 +22,9 @@ cousin deepthi
 cousin ravi
 
 helo world
+<<<<<<< HEAD
 >>>>>>> 47784918c34580f26905539cce34f659e6353789
+=======
+
+hi
+>>>>>>> adde1c683123c9d3a22cea620cc0b13c0e11d017
